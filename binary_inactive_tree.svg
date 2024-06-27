@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1000" height="1000" viewBox="-500.0 -500.0 1000 1000">
+<defs>
+</defs>
+<path d="M300,420 L280,340" stroke="lightgray" stroke-width="6" stroke-dasharray="5,5" />
+<path d="M260,420 L280,340" stroke="lightgray" stroke-width="6" stroke-dasharray="5,5" />
+<path d="M280,340 L240,260" stroke="lightgray" stroke-width="6" stroke-dasharray="5,5" />
+<path d="M220,420 L200,340" stroke="lightgray" stroke-width="6" stroke-dasharray="5,5" />
+<path d="M180,420 L200,340" stroke="lightgray" stroke-width="6" stroke-dasharray="5,5" />
+<path d="M200,340 L240,260" stroke="lightgray" stroke-width="6" stroke-dasharray="5,5" />
+<path d="M240,260 L160,180" stroke="lightgray" stroke-width="6" stroke-dasharray="5,5" />
+<path d="M140,420 L120,340" stroke="lightgray" stroke-width="6" stroke-dasharray="5,5" />
+<path d="M100,420 L120,340" stroke="lightgray" stroke-width="6" stroke-dasharray="5,5" />
+<path d="M120,340 L80,260" stroke="lightgray" stroke-width="6" stroke-dasharray="5,5" />
+<path d="M60,420 L40,340" stroke="black" stroke-width="6" stroke-dasharray="solid" />
+<path d="M20,420 L40,340" stroke="black" stroke-width="6" stroke-dasharray="solid" />
+<path d="M40,340 L80,260" stroke="black" stroke-width="6" stroke-dasharray="solid" />
+<path d="M80,260 L160,180" stroke="black" stroke-width="6" stroke-dasharray="solid" />
+<path d="M160,180 L0,100" stroke="black" stroke-width="6" stroke-dasharray="solid" />
+<path d="M-20,420 L-40,340" stroke="lightgray" stroke-width="6" stroke-dasharray="5,5" />
+<path d="M-60,420 L-40,340" stroke="lightgray" stroke-width="6" stroke-dasharray="5,5" />
+<path d="M-40,340 L-80,260" stroke="lightgray" stroke-width="6" stroke-dasharray="5,5" />
+<path d="M-100,420 L-120,340" stroke="black" stroke-width="6" stroke-dasharray="solid" />
+<path d="M-140,420 L-120,340" stroke="lightgray" stroke-width="6" stroke-dasharray="5,5" />
+<path d="M-120,340 L-80,260" stroke="black" stroke-width="6" stroke-dasharray="solid" />
+<path d="M-80,260 L-160,180" stroke="black" stroke-width="6" stroke-dasharray="solid" />
+<path d="M-180,420 L-200,340" stroke="lightgray" stroke-width="6" stroke-dasharray="5,5" />
+<path d="M-220,420 L-200,340" stroke="lightgray" stroke-width="6" stroke-dasharray="5,5" />
+<path d="M-200,340 L-240,260" stroke="lightgray" stroke-width="6" stroke-dasharray="5,5" />
+<path d="M-260,420 L-280,340" stroke="lightgray" stroke-width="6" stroke-dasharray="5,5" />
+<path d="M-300,420 L-280,340" stroke="lightgray" stroke-width="6" stroke-dasharray="5,5" />
+<path d="M-280,340 L-240,260" stroke="lightgray" stroke-width="6" stroke-dasharray="5,5" />
+<path d="M-240,260 L-160,180" stroke="lightgray" stroke-width="6" stroke-dasharray="5,5" />
+<path d="M-160,180 L0,100" stroke="black" stroke-width="6" stroke-dasharray="solid" />
+<circle cx="0" cy="100" r="12" fill="white" />
+<circle cx="0" cy="100" r="10" fill="orange" />
+<circle cx="-160" cy="180" r="12" fill="white" />
+<circle cx="-160" cy="180" r="10" fill="orange" />
+<circle cx="-240" cy="260" r="12" fill="white" />
+<circle cx="-240" cy="260" r="10" fill="lightgray" />
+<circle cx="-280" cy="340" r="12" fill="white" />
+<circle cx="-280" cy="340" r="10" fill="lightgray" />
+<circle cx="-300" cy="420" r="12" fill="white" />
+<circle cx="-300" cy="420" r="10" fill="lightgray" />
+<circle cx="-260" cy="420" r="12" fill="white" />
+<circle cx="-260" cy="420" r="10" fill="lightgray" />
+<circle cx="-200" cy="340" r="12" fill="white" />
+<circle cx="-200" cy="340" r="10" fill="lightgray" />
+<circle cx="-220" cy="420" r="12" fill="white" />
+<circle cx="-220" cy="420" r="10" fill="lightgray" />
+<circle cx="-180" cy="420" r="12" fill="white" />
+<circle cx="-180" cy="420" r="10" fill="lightgray" />
+<circle cx="-80" cy="260" r="12" fill="white" />
+<circle cx="-80" cy="260" r="10" fill="orange" />
+<circle cx="-120" cy="340" r="12" fill="white" />
+<circle cx="-120" cy="340" r="10" fill="orange" />
+<circle cx="-140" cy="420" r="12" fill="white" />
+<circle cx="-140" cy="420" r="10" fill="lightgray" />
+<circle cx="-100" cy="420" r="12" fill="white" />
+<circle cx="-100" cy="420" r="10" fill="orange" />
+<circle cx="-40" cy="340" r="12" fill="white" />
+<circle cx="-40" cy="340" r="10" fill="lightgray" />
+<circle cx="-60" cy="420" r="12" fill="white" />
+<circle cx="-60" cy="420" r="10" fill="lightgray" />
+<circle cx="-20" cy="420" r="12" fill="white" />
+<circle cx="-20" cy="420" r="10" fill="lightgray" />
+<circle cx="160" cy="180" r="12" fill="white" />
+<circle cx="160" cy="180" r="10" fill="orange" />
+<circle cx="80" cy="260" r="12" fill="white" />
+<circle cx="80" cy="260" r="10" fill="orange" />
+<circle cx="40" cy="340" r="12" fill="white" />
+<circle cx="40" cy="340" r="10" fill="orange" />
+<circle cx="20" cy="420" r="12" fill="white" />
+<circle cx="20" cy="420" r="10" fill="orange" />
+<circle cx="60" cy="420" r="12" fill="white" />
+<circle cx="60" cy="420" r="10" fill="orange" />
+<circle cx="120" cy="340" r="12" fill="white" />
+<circle cx="120" cy="340" r="10" fill="lightgray" />
+<circle cx="100" cy="420" r="12" fill="white" />
+<circle cx="100" cy="420" r="10" fill="lightgray" />
+<circle cx="140" cy="420" r="12" fill="white" />
+<circle cx="140" cy="420" r="10" fill="lightgray" />
+<circle cx="240" cy="260" r="12" fill="white" />
+<circle cx="240" cy="260" r="10" fill="lightgray" />
+<circle cx="200" cy="340" r="12" fill="white" />
+<circle cx="200" cy="340" r="10" fill="lightgray" />
+<circle cx="180" cy="420" r="12" fill="white" />
+<circle cx="180" cy="420" r="10" fill="lightgray" />
+<circle cx="220" cy="420" r="12" fill="white" />
+<circle cx="220" cy="420" r="10" fill="lightgray" />
+<circle cx="280" cy="340" r="12" fill="white" />
+<circle cx="280" cy="340" r="10" fill="lightgray" />
+<circle cx="260" cy="420" r="12" fill="white" />
+<circle cx="260" cy="420" r="10" fill="lightgray" />
+<circle cx="300" cy="420" r="12" fill="white" />
+<circle cx="300" cy="420" r="10" fill="lightgray" />
+</svg>
